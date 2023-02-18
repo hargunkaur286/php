@@ -30,3 +30,9 @@ PHP is a web side scripting language which helps in rendering the pages.
    2. Assignment operators
    3. Comparison operators
    4. Logical operators
+
+-> LOOPS:
+   1. while loop
+   2. for loop
+   3. do while loop
+   4. for each loop
