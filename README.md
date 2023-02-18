@@ -14,3 +14,12 @@ PHP is a web side scripting language which helps in rendering the pages.
     5. Object - instances of classes
     6. Array - used to store multiple values in a single variable
     7. NULL - stores NULL value
+
+-> STRING FUNCTIONS:
+   1. strlen - returns the length of a string
+   2. str_word_count - returns the number of words
+   3. strrev - reverses the string
+   4. strpos - returns the position of a word in a string
+   5. str_replace - replaces a word in a string
+   6. str_repeat - repeats a string
+   7. ltrim/rtrim - trims a string
