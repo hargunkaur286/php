@@ -36,3 +36,7 @@ PHP is a web side scripting language which helps in rendering the pages.
    2. for loop
    3. do while loop
    4. for each loop
+
+-> FUNCTIONS are reusable components
+
+-> DATES can take different formats. Eg. if we want to use dates in the footer, eg. in copyright. 
