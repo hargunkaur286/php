@@ -22,7 +22,7 @@
     <!-- header section starts -->
 
     <section class="header">
-        <a href = "home.php" class="logo">travel.</a>
+        <a href="home.php" class="logo">travel.</a>
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
@@ -35,36 +35,74 @@
     </section>
     <!-- header section ends -->
 
+
+    <!-- home section starts-->
+
+    <section class="home">
+        <div class="swiper home-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide slide" style="background:url(images/slide-1.jpeg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>travel around the world</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(images/slide-2.jpeg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>discover new places</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide" style="background:url(images/slide-3.jpeg) no-repeat">
+                    <div class="content">
+                        <span>explore, discover, travel</span>
+                        <h3>make your travel worthwhile</h3>
+                        <a href="package.php" class="btn">discover more</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </section>
+
+    <!-- home section ends-->
+
     <!--services section starts -->
 
-    <section class ="services">
+    <section class="services">
         <div class="box-container">
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-1.png" alt="">
                 <h3>adventure</h3>
             </div>
 
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-2.png" alt="">
                 <h3>tour guide</h3>
             </div>
 
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-3.png" alt="">
                 <h3>trekking</h3>
             </div>
 
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-4.png" alt="">
                 <h3>camp fire</h3>
             </div>
 
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-5.png" alt="">
                 <h3>off road</h3>
             </div>
 
-            <div class = "box">
+            <div class="box">
                 <img src="images/icon-6.png" alt="">
                 <h3>camping</h3>
             </div>
@@ -104,7 +142,7 @@
                 <a href="#"><i class="fas fa-phone"></i>+111-222-3330</a>
                 <a href="#"><i class="fas fa-envelope"></i>hargunkaur286@gmail.com</a>
                 <a href="#"><i class="fas fa-home"></i>New Delhi, India</a>
-                
+
             </div>
 
             <div class="box">
