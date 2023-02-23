@@ -74,6 +74,97 @@
     </section>
     <!-- about section ends -->
 
+    <!-- reviews section starts -->
+    <section class="reviews">
+        <h3>Clients reviews</h3>
+        <div class="swiper reviews-slider">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>john deo</h3>
+                    <span>traveler</span>
+                    <img src="images/people-1.jpeg">
+                </div>
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, dolore magna aliqua dolore magna aliqua sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>lily varghese</h3>
+                    <span>traveler</span>
+                    <img src="images/people-2.jpeg">
+                </div>
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>joseph gonzala</h3>
+                    <span>traveler</span>
+                    <img src="images/people-3.jpeg">
+                </div>
+
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>joseph gonzala</h3>
+                    <span>traveler</span>
+                    <img src="images/people-4.jpeg">
+                </div>
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>joseph gonzala</h3>
+                    <span>traveler</span>
+                    <img src="images/people-5.jpeg">
+                </div>
+
+                <div class="swiper-slider slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h3>joseph gonzala</h3>
+                    <span>traveler</span>
+                    <img src="images/people-6.jpeg">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- reviews section ends -->
+
 
     <!-- footer section starts -->
     <section class="footer">
