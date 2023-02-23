@@ -175,11 +175,10 @@
                 </div>
             </div>
 
-            <div class="load-more">
+        </div>
+        <div class="load-more">
                 <a href="package.php" class="btn">load more</a>
             </div>
-
-        </div>
     </section>
     <!-- home packages section ends -->
 
