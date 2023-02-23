@@ -134,6 +134,57 @@
 
     <!-- home about section ends-->
 
+    <!-- home packages section starts -->
+
+    <section class="home-packages">
+        <h1 class="heading-title">
+            our packages
+        </h1>
+        <div class="box-container">
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/monument.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/monument-2.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/monument-3.jpeg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure and tour</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class="load-more">
+                <a href="package.php" class="btn">load more</a>
+            </div>
+
+        </div>
+    </section>
+    <!-- home packages section ends -->
+
+    
+
 
 
     <!-- footer section starts -->
