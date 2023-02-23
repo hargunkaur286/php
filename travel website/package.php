@@ -35,7 +35,7 @@
     </section>
     <!-- header section ends -->
 
-    <div class = "heading" style = "">
+    <div class = "heading" style = "background:url(images/background-img-2.jpeg) no-repeat">
         <h1>Packages</h1>
     </div>
 
