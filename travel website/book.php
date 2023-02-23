@@ -35,6 +35,10 @@
     </section>
     <!-- header section ends -->
 
+    <div class = "heading" style = "">
+        <h1>Bookings</h1>
+    </div>
+
 
 
     <!-- footer section starts -->
