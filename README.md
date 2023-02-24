@@ -1,4 +1,5 @@
 # php
+THIS REPOSITORY IS DEDICATED TO LEARNING PHP
 PHP is a web side scripting language which helps in rendering the pages. 
 
 -> VARIABLES are containers for storing information.
